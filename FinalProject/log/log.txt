@@ -1,0 +1,8 @@
+Files were read and data structures were created [1/24/2022 1:27:57 PM].
+Data was rewritten to the files [1/24/2022 1:28:24 PM].
+Data was rewritten to the files [1/24/2022 1:28:24 PM].
+App is closed [1/24/2022 1:28:24 PM].
+Total price for input drugs is 101031[1/24/2022 3:02:13 PM].
+Total price for input drugs is 264920[1/24/2022 3:59:12 PM].
+Total price for input drugs is 529840[1/24/2022 6:41:01 PM].
+Total price for input drugs is 190460[1/24/2022 6:44:35 PM].
